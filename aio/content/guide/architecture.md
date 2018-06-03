@@ -41,7 +41,7 @@ The `@Component` decorator identifies the class immediately below it as a compon
 
 <div class="l-sub-section">
 
-   Decorators are functions that modify JavaScript classes. Angular defines a number of such decorators that attach specific kinds of metadata to classes, so that it knows what those classes mean and how they should work.
+   Decorators are functions that modify JavaScript classes, their properties or methods. Angular defines a number of such decorators that attach specific kinds of metadata to classes, so that it knows what those classes mean and how they should work.
 
    <a href="https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.x5c2ndtx0">Learn more about decorators on the web.</a>
 
